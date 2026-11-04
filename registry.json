@@ -1,6 +1,14 @@
 {
   "plugins": [
     {
+      "name": "Xray-dxbi",
+      "author": "Tipapoute",
+      "description": "A plugin that display an Amazon X-Ray–style panel for dx.bi : when you pause, the cast of the episode or film slides in on the left.",
+      "version": "1.0.0",
+      "repo": "https://github.com/Tipapoute/xray-dxbi",
+      "download": "https://raw.githubusercontent.com/Tipapoute/xray-dxbi/refs/heads/main/xray.plugin.js"
+    },
+    {
       "name": "Stremio AniSkip",
       "author": "REVENGE977",
       "description": "A plugin that integrates the AniSkip API into Stremio to automatically skip openings and endings when watching anime.",
